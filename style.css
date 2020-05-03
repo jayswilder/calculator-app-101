@@ -3,3 +3,17 @@ body {
   width: 50%;
   height: 75%;
 }
+
+button {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  padding: 10px;
+  border: none;
+}
+
+button:hover {
+  background-color: orange;
+  color: black;
+}
